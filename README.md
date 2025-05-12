@@ -19,7 +19,7 @@ W3 Game is a simple, browser-based interactive game built using HTML, CSS, and J
 ## 📸 Screenshots
 
 ### Game Screen  
-![Game Screenshot](./game.png)
+![Game Screenshot](./images/game.png)
 
 
 ## 📁 How to Run the Project
